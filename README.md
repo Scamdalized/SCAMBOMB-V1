@@ -1,5 +1,5 @@
-# 📧 Email-Bomber v2.0.0
-![Email Bomber Screenshot v2.0.0](https://i.imgur.com/zSeyXbw.png)
+# 📧 SCAMBOMB V1
+![SCAMBOMB V1 Screenshot](https://i.imgur.com/zSeyXbw.png)
 - An open Source free to use email-bomber using python's built-in library SMTP.
 
 ## ⚠️ Prerequisite
@@ -24,7 +24,7 @@
 ### Use App Password
 ![App Password](https://i.imgur.com/krkn5EX.png)
 - Copy App Password.
-- Use App Password in Email-Bomber script.
+- Use App Password in SCAMBOMB V1 script.
 
 ## 📑 Installation Guide
 ### Termux
@@ -35,16 +35,16 @@ pkg install git
 pkg install python
 ```
 ```
-git clone https://github.com/coderatul/emailbomber
+git clone https://github.com/Scamdalized/ScambombV1
 ```
 ```
 ls
 ```
 ```
-cd emailbomber
+cd ScambombV1
 ```
 ```
-python emailbomber.py
+python ScambombV1.py
 ```
 ### Linux Distributions
 ```
@@ -57,13 +57,13 @@ sudo apt install python3.8
 sudo apt update && upgrade 
 ```
 ```
-git clone https://github.com/coderatul/emailbomber
+git clone https://github.com/Scamdalized/ScambombV1
 ```
 ```
-cd emailbomber
+cd ScambombV1
 ```
 ```
-python emailbomber.py
+python ScambombV1.py
 ```
 
 # 🧾 Requirements.txt
@@ -98,7 +98,7 @@ SOFTWARE.
 ```
 
 ## 🤵 Authors
-- [@coderatul](https://github.com/coderatul)
+- [@Scamdalized](https://github.com/Scamdalized)
 
 ## ❔ Questions/Feedback
-If you have any questions or feedback, please reach out in [issues](https://github.com/coderatul/emailbomber/issues).
+If you have any questions or feedback, please reach out in [issues](https://github.com/Scamdalized/ScambombV1).
